@@ -36,4 +36,7 @@ $$
 
 ## Why are ANNs so powerful?
 - ANNs are excellent at handling complex, nonlinear, and high-dimensional problems where explicit programming may be infeasible.
-- 
+
+## Key Terms:
+- **Forward propagation**: prediction step, how input data moves through the network to produce an output.
+- **Backwards propagation**: learning step, how the network updates weights to reduce errors.
